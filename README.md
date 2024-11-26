@@ -1,4 +1,4 @@
-<img src="./public/Sthlm kungsholmen001-20084.jpg" style="border-radius:10px"/>
+<img src="./public/Sthlm kungsholmen001-20084.jpg"/>
 
 <h1>System.stdout.println("Hello World!);</h1>
 
@@ -8,7 +8,7 @@ I'm currently studying Civic Engineering and Teaching at KTH with specialization
 
 I'm currently taking a course on Webapp development and my masters degree is coming up. Apart from my studies I'm also for the fourth year in a row working as a TA where I lead exercises and help examine labs that students partake in.
 
-<img src="./public/wordcloud_programming_languages.png" style="border-radius:10px">
+<img src="./public/snapshot-1732619312186.png"/>
 
 Beyond programming and computers, my interests (to name a few) are in no particular order:
 
@@ -26,4 +26,4 @@ _"The single biggest problem in communication is the illusion that it has taken 
 
 **Favorite comic strip:**
 
-<img src="https://imgs.xkcd.com/comics/standards.png"/> <br/><br/>
+<img src="https://imgs.xkcd.com/comics/standards.png"/>
