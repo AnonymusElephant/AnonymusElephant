@@ -12,11 +12,11 @@ I'm currently taking a course on Webapp development and my masters degree is com
 
 Beyond programming and computers, my interests (to name a few) are in no particular order:
 
-🎲 Games (both digital and physical) <br/>
-📸 Photography <br/>
-<img src="./public/LEGO_logo.png"> LEGO <br/>
+[🎲](https://steamcommunity.com/id/threebitautumn/) Games (both digital and physical) <br/>
+[📸](https://www.instagram.com/threebitautumn/) Photography <br/>
+![Lego Logo](./public/LEGO_logo.png) LEGO <br/>
 📖 Reading <br/>
-🎧 Music (both listening to and playing) <br/>
+[🎧](https://open.spotify.com/user/the13thkraw?si=bf9741cfb7264e7e) Music (both listening to and playing) <br/>
 ⛰️ the outdoors (I see mountain, i summit!) <br/>
 🧗 Rock climbing <br/>
 🍿 Movies and series <br/>
@@ -27,4 +27,4 @@ _"The single biggest problem in communication is the illusion that it has taken 
 
 **Favorite comic strip:**
 
-<img src="https://imgs.xkcd.com/comics/standards.png"/>
+[![xkcd - Standards](https://imgs.xkcd.com/comics/standards.png)](https://xkcd.com/927/)
