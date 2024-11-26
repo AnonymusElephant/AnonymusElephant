@@ -20,8 +20,6 @@ Beyond programming and computers, my interests (to name a few) are in no particu
 ⛰️ the outdoors (I see mountain, i summit!) <br/>
 🧗 Rock climbing <br/>
 
-<br/>
-
 **Favorite quote:**
 
 _"The single biggest problem in communication is the illusion that it has taken place.”_ - George Bernard Shaw
