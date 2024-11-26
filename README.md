@@ -14,12 +14,12 @@ Beyond programming and computers, my interests (to name a few) are in no particu
 
 🎲 Games (both digital and physical) <br/>
 📸 Photography <br/>
-![Lego Logo](./public/LEGO_logo.png) LEGO <br/>
 📖 Reading <br/>
 🎧 Music (both listening to and playing) <br/>
 ⛰️ the outdoors (I see mountain, i summit!) <br/>
 🧗 Rock climbing <br/>
 🍿 Movies and series <br/>
+![Lego Logo](./public/LEGO_logo.png) LEGO <br/>
 
 **Favorite quote:**
 
