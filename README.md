@@ -19,6 +19,7 @@ Beyond programming and computers, my interests (to name a few) are in no particu
 🎧 Music (both listening to and playing) <br/>
 ⛰️ the outdoors (I see mountain, i summit!) <br/>
 🧗 Rock climbing <br/>
+🍿 Movies and series <br/>
 
 **Favorite quote:**
 
