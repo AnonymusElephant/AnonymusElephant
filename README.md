@@ -1,6 +1,6 @@
-<img src="./public/Sthlm kungsholmen001-20084.jpg"/>
+![Banner](./public/Sthlm-kungsholmen001-20084.jpg)
 
-<h1>System.stdout.println("Hello World!);</h1>
+# System.stdout.println("Hello World!);
 
 Welcome to my little corner of Github, I'm _@AnonymusElephant_
 
@@ -19,7 +19,9 @@ Beyond programming and computers, my interests (to name a few) are in no particu
 ⛰️ the outdoors (I see mountain, i summit!) <br/>
 🧗 Rock climbing <br/>
 🍿 Movies and series <br/>
-![Lego Logo](./public/LEGO_logo.png)  LEGO <br/>
+![Lego Logo](./public/LEGO_logo.png) LEGO <br/>
+
+[Check out my website](https://anders-wallenthin.com) (under construction)
 
 **Favorite quote:**
 
