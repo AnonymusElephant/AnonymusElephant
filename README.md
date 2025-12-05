@@ -4,7 +4,7 @@
 
 Welcome to my little corner of Github, I'm _@AnonymusElephant_
 
-I am studying Civic Engineering and Teaching (Computer Science track) at KTH  . Diving into everything from abstract data structures, low level hardware programming and syntax checking, to parallel programming, LLMs and AI-modelling, frontend, to mention a few areas.
+I am studying Civic Engineering and Teaching (Computer Science track) at KTH. During my studies I've have had the oppurtunity to dive into everything from abstract data structures, low level hardware programming and syntax checking, to parallel programming, LLMs and AI-modelling, frontend, to mention a few areas.
 
 Currently, I am wrapping up my final courses and writing my Master's Thesis on the topic of AI-assisted pQBL quiz generation. Apart from my studies I'm also for the fourth year in a row working as a TA in Applied Computer Science where I lead exercises and help grade labs and tests that students partake in.
 
